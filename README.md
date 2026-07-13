@@ -1,4 +1,4 @@
-# COVID-19 Layoffs Intelligence 📉
+# Tech Industry Downsizing Analytics 📉
 
 An end-to-end data engineering and analytics project investigating global tech layoffs (2020–2023). This project transforms raw, unstructured layoff announcements into a clean, actionable Power BI dashboard for workforce risk assessment and industry trend analysis.
 
